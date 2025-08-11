@@ -1,0 +1,30 @@
+body {
+    background-color: #D3D6DD;
+}
+
+h1 {
+    color: #000000;
+    font-size: 64px;
+    text-align: center;
+}
+
+h2 {
+    color: #000000;
+    font-size: 48px;
+}
+
+p {
+    color: #000000;
+    font-size: 30px;
+}
+
+nav {
+    background-color: #024F73;
+    height: 62px;
+}
+
+footer {
+    font-size: 25px;
+    background-color: #02734A;
+    height: 57px;
+}
