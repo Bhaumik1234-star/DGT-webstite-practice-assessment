@@ -26,6 +26,12 @@ nav {
 footer {
     color: #FFFFFF;
     font-size: 25px;
-    background-color: #02734A;
-    height: 57px;
+    background-color: #02734A;  
+    height: 62px;
+}
+
+nav a {
+    color: #FFFFFF;
+    font-size: 32px;
+    margin-left: 20%;
 }
